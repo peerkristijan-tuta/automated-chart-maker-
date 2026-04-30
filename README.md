@@ -1,18 +1,10 @@
-# React + Vite
+In this program, a tree map is referred to as a segment diagram whilst a bump chart is referred to as a worm diagram. The user input section of the program has been fully implemented, with each text field receiving and storing data, as well as the generate button on the forms for each type of chart passing the filled text field on its form all the way to the function that can pass it to a component to generate the chart. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+However, these are yet to be implemented:
 
-Currently, two official plugins are available:
+a) The component to draw the chart based on user input
+b) The component to display an example of the chart type at the data input form for the type
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+On the unfinished functions or components (those that draw), there is a commented out line of code which, if not commented out, will be activated if the generate button is pressed or a text field is hovered over, and will pass over relevant input data. For clarification on what this means, kindly consult the component diagram. 
 
-## React Compiler
-
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
-
-Note: This will impact Vite dev & build performances.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Credit will be given to those who do. You may implement the components to draw the charts however way you wish as long as they correspond to user input. The exact meaning of fields like "label" and "unit" can be interpreted however you wish to create a coherent component. 
