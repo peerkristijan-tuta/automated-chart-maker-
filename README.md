@@ -3,6 +3,7 @@ In this program, a tree map is referred to as a segment diagram whilst a bump ch
 However, these are yet to be implemented:
 
 a) The component to draw the chart based on user input
+
 b) The component to display an example of the chart type at the data input form for the type
 
 On the unfinished functions or components (those that draw), there is a commented out line of code which, if not commented out, will be activated if the generate button is pressed or a text field is hovered over, and will pass over relevant input data. For clarification on what this means, kindly consult the component diagram. 
