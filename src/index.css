@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: Georgia, serif;
+  color: #F5F5F5;
+}
+
+html, body, #root {
+  height: 100%;
+}
