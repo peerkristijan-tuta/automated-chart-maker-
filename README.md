@@ -8,6 +8,6 @@ a) drawd the chart based on user input
 
 b) displays an example of the chart type at the data input form for the type
 
-In each of the unfinished functions or components (those that draw), there is a commented out line of code which, if not commented out, will be activated if the generate button is pressed or a text field is hovered over, and will pass over relevant input data. The component diagram may clarify this further.
+In each of the unfinished functions or components (those that draw), there is a commented out line of code which, if not commented out, will be activated if the generate button is pressed or a text field is hovered over, and will display relevant entered input data to confirm that it is collected and ready for use in charting. The component diagram may clarify this further.
 
 Credit will be given to those who implement the charting or animation feature (to animate the drawing a chart). You may implement the components to draw the charts however way you wish as long as they correspond to user input. The exact meaning of fields like "label" and "unit" can be interpreted however you wish to create a coherent component. 
