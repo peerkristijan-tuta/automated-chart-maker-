@@ -1,5 +1,3 @@
-Kindly consult the component diagram for a visualization of the event handling flow.
-
 In this program, a tree map is referred to as a segment diagram whilst a bump chart is referred to as a worm diagram. The user input section of the program, that of JSX+React, has been fully implemented, with each text field receiving and storing data, as well as the generate button on the forms for each type of chart passing the filled text field on its form all the way to the function that can pass it to a component to generate the chart. 
 
 However, certain SVG (and possibly D3) components are yet to be implemented which:
